@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "1793830991187",
+    "name": "Hugo",
+    "email": "hugo@ejemplo.com",
+    "password": "contraseniaSegura123",
+    "createdAt": "2026-11-04T22:23:11.187Z",
+    "isActive": true
+  }
+]
